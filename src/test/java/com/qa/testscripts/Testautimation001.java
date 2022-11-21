@@ -22,22 +22,7 @@ public class Testautimation001 {
 		cdriver.findElement(By.id("contactFormEmail")).sendKeys("ppshetty@gmail.com");
 		cdriver.findElement(By.id("contactFormMessage")).sendKeys("Hope you are safe and happy i didn't recieve my reward");
 		cdriver.findElement(By.className("action_button")).click();
-		
-		
-		
-		
 		Thread.sleep(15000);
-		
-
 		cdriver.close();
-		
-		
-		
-		
-		
-		
-		
-		
 	}
-
 }
