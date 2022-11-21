@@ -18,7 +18,7 @@ public class Testautimation001 {
 		cdriver.findElement(By.className("action_button")).click();
 		cdriver.get("https://shopsystore.com/");
 		cdriver.findElement(By.linkText("Contact Us")).click();
-		cdriver.findElement(By.id("contactFormName")).sendKeys("ppshettysss");
+		cdriver.findElement(By.id("contactFormName")).sendKeys("ppshetty");
 		cdriver.findElement(By.id("contactFormEmail")).sendKeys("ppshetty@gmail.com");
 		cdriver.findElement(By.id("contactFormMessage")).sendKeys("Hope you are safe and happy i didn't recieve my reward");
 		cdriver.findElement(By.className("action_button")).click();
