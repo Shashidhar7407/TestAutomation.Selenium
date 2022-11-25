@@ -9,10 +9,10 @@ public class newclassfile {
 		System.out.println("hello mahnheygitandrose");
 
 		System.out.println("hello mahnheygitandrose");
-		System.out.println("hello mahnheygitandrose");
-		System.out.println("hello mahnheygitandrose");
-		System.out.println("hello mahnheygitandrosessess");
-		System.out.println("hello mahnheygitandroseyyy");
+		
+		
+		System.out.println("hello shashi mani ");
+		
 
 
 		
